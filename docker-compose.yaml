@@ -1,5 +1,5 @@
 services:
-  oktewe:
+  oIY8r7wr:
     build: .
     shm_size: 2.6gb
     ports:
